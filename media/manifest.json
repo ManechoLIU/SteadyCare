@@ -1,0 +1,55 @@
+{
+  "title": "稳住产品 Demo",
+  "items": [],
+  "images": [
+    {
+      "src": "media/01-welcome.png",
+      "truth": "SIMULATED",
+      "source": "Image-generated mobile H5 product Demo, based on the SteadyCare product design. Original pixels preserved; display regions may be enlarged.",
+      "width": 853,
+      "height": 1844
+    },
+    {
+      "src": "media/02-photo-chat.png",
+      "truth": "SIMULATED",
+      "source": "Image-generated mobile H5 product Demo, based on the SteadyCare product design. Original pixels preserved; display regions may be enlarged.",
+      "width": 853,
+      "height": 1844
+    },
+    {
+      "src": "media/03-clarify.png",
+      "truth": "SIMULATED",
+      "source": "Image-generated mobile H5 product Demo, based on the SteadyCare product design. Original pixels preserved; display regions may be enlarged.",
+      "width": 853,
+      "height": 1844
+    },
+    {
+      "src": "media/04-warranty.png",
+      "truth": "SIMULATED",
+      "source": "Image-generated mobile H5 product Demo, based on the SteadyCare product design. Original pixels preserved; display regions may be enlarged.",
+      "width": 853,
+      "height": 1844
+    },
+    {
+      "src": "media/05-handoff.png",
+      "truth": "SIMULATED",
+      "source": "Image-generated mobile H5 product Demo, based on the SteadyCare product design. Original pixels preserved; display regions may be enlarged.",
+      "width": 853,
+      "height": 1844
+    },
+    {
+      "src": "media/06-safety.png",
+      "truth": "SIMULATED",
+      "source": "Image-generated mobile H5 product Demo, based on the SteadyCare product design. Original pixels preserved; display regions may be enlarged.",
+      "width": 853,
+      "height": 1844
+    },
+    {
+      "src": "media/07-outcome-check.png",
+      "truth": "SIMULATED",
+      "source": "Image-generated mobile H5 product Demo, based on the SteadyCare product design. Original pixels preserved; display regions may be enlarged.",
+      "width": 853,
+      "height": 1844
+    }
+  ]
+}
